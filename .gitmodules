@@ -1,0 +1,9 @@
+[submodule "dso"]
+	path = dso
+	url = https://github.com/JakobEngel/dso.git
+[submodule "LDSO"]
+	path = LDSO
+	url = https://github.com/tum-vision/LDSO.git
+[submodule "Pangolin"]
+	path = Pangolin
+	url = https://github.com/stevenlovegrove/Pangolin.git
